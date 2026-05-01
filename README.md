@@ -3,9 +3,6 @@
 
 
 ## 🌐 Socials:
-<<<<<<< HEAD
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HuzefaKazi) 
-=======
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/huzefa.kazi.10) 
 >>>>>>> 49dc4f2 (Update README.md)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Huzefa__kazi) 
